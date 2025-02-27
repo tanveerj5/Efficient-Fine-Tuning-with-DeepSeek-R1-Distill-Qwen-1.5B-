@@ -1,0 +1,88 @@
+{"question": "What is 2 + 2?", "answer": "4"}
+{"question": "What is 5 * 6?", "answer": "30"}
+{"question": "What is 10 / 2?", "answer": "5"}
+{"question": "What is 7 - 3?", "answer": "4"}
+{"question": "What is the square root of 16?", "answer": "4"}
+{"question": "What is 2 to the power of 3?", "answer": "8"}
+{"question": "If a train travels 60 km/h for 2 hours, how far does it go?", "answer": "120 km"}
+{"question": "What is the remainder when 10 is divided by 3?", "answer": "1"}
+{"question": "What is the area of a rectangle with length 5 and width 3?", "answer": "15 square units"}
+{"question": "What is the perimeter of a square with side 4?", "answer": "16 units"}
+{"question": "What is the factorial of 5?", "answer": "120"}
+{"question": "What is the sum of angles in a triangle?", "answer": "180 degrees"}
+{"question": "What is the derivative of x^2?", "answer": "2x"}
+{"question": "What is the integral of 2x dx?", "answer": "x^2 + C"}
+{"question": "If a car travels 90 km in 1.5 hours, what is its speed?", "answer": "60 km/h"}
+{"question": "What is the probability of getting a 6 on a fair die?", "answer": "1/6"}
+{"question": "What is 3! (3 factorial)?", "answer": "6"}
+{"question": "What is the sum of the first 5 natural numbers?", "answer": "15"}
+{"question": "What is the product of 4 and 7?", "answer": "28"}
+{"question": "What is the volume of a cube with side length 3?", "answer": "27 cubic units"}
+{"question": "What is the greatest common divisor (GCD) of 12 and 18?", "answer": "6"}
+{"question": "What is the least common multiple (LCM) of 3 and 4?", "answer": "12"}
+{"question": "What is the next number in the sequence: 2, 4, 6, 8?", "answer": "10"}
+{"question": "What is the sum of the internal angles of a quadrilateral?", "answer": "360 degrees"}
+{"question": "What is the value of pi (approx)?", "answer": "3.14159"}
+{"question": "What is the binary representation of 5?", "answer": "101"}
+{"question": "What is the hexadecimal representation of 255?", "answer": "FF"}
+{"question": "If x + 3 = 7, what is x?", "answer": "4"}
+{"question": "What is 100 in binary?", "answer": "1100100"}
+{"question": "If a triangle has sides 3, 4, 5, what kind of triangle is it?", "answer": "Right triangle"}
+{"question": "What is 15% of 200?", "answer": "30"}
+{"question": "What is the cube root of 27?", "answer": "3"}
+{"question": "If a car travels 100 km in 2 hours, what is its average speed?", "answer": "50 km/h"}
+{"question": "What is the sum of the first 10 natural numbers?", "answer": "55"}
+{"question": "What is the hypotenuse of a right triangle with legs 6 and 8?", "answer": "10"}
+{"question": "What is the area of a circle with radius 7?", "answer": "153.94 square units (approx)"}
+{"question": "What is log base 10 of 1000?", "answer": "3"}
+{"question": "What is the derivative of sin(x)?", "answer": "cos(x)"}
+{"question": "What is the integral of cos(x) dx?", "answer": "sin(x) + C"}
+{"question": "What is the surface area of a cube with side 5?", "answer": "150 square units"}
+{"question": "What is the Fibonacci sequence's 6th number (starting from 0,1)?", "answer": "5"}
+{"question": "What is 7 modulo 4?", "answer": "3"}
+{"question": "If a rectangle has length 6 and width 4, what is its perimeter?", "answer": "20 units"}
+{"question": "What is the solution to 2x - 6 = 10?", "answer": "x = 8"}
+{"question": "What is the sum of the digits of 1234?", "answer": "10"}
+{"question": "What is the equation of a line with slope 2 passing through (0,3)?", "answer": "y = 2x + 3"}
+{"question": "What is the area of a triangle with base 10 and height 5?", "answer": "25 square units"}
+{"question": "What is the sum of 1/2 and 2/3?", "answer": "7/6"}
+{"question": "What is 3 to the power of 4?", "answer": "81"}
+{"question": "What is the smallest prime number?", "answer": "2"}
+{"question": "What is 9 squared?", "answer": "81"}
+{"question": "What is the square root of 81?", "answer": "9"}
+{"question": "What is 4 to the power of 3?", "answer": "64"}
+{"question": "What is the sum of the angles in a pentagon?", "answer": "540 degrees"}
+{"question": "If a car travels 150 km in 3 hours, what is its speed?", "answer": "50 km/h"}
+{"question": "What is the area of a square with side 6?", "answer": "36 square units"}
+{"question": "What is the derivative of e^x?", "answer": "e^x"}
+{"question": "What is the integral of 1/x dx?", "answer": "ln|x| + C"}
+{"question": "What is the probability of flipping heads on a fair coin?", "answer": "1/2"}
+{"question": "What is 45% of 200?", "answer": "90"}
+{"question": "What is the cube of 5?", "answer": "125"}
+{"question": "What is the circumference of a circle with diameter 10?", "answer": "31.42 units (approx)"}
+{"question": "What is the value of cos(0)?", "answer": "1"}
+{"question": "What is the median of the numbers 3, 5, 7, 9, 11?", "answer": "7"}
+{"question": "What is the mode of the numbers 2, 3, 4, 4, 5?", "answer": "4"}
+{"question": "What is 2 + 3 * 4?", "answer": "14"}
+{"question": "What is the slope of the line y = 7x - 2?", "answer": "7"}
+{"question": "What is the y-intercept of the line y = 5x + 6?", "answer": "6"}
+{"question": "What is the area of a parallelogram with base 8 and height 3?", "answer": "24 square units"}
+{"question": "What is the sum of the digits of 567?", "answer": "18"}
+{"question": "What is the value of tan(45 degrees)?", "answer": "1"}
+{"question": "What is the smallest even prime number?", "answer": "2"}
+{"question": "What is the sum of the angles in a hexagon?", "answer": "720 degrees"}
+{"question": "What is the equation of a circle with center (0,0) and radius 5?", "answer": "x^2 + y^2 = 25"}
+{"question": "What is the factorial of 6?", "answer": "720"}
+{"question": "What is the next prime number after 7?", "answer": "11"}
+{"question": "What is the product of the first 4 positive integers?", "answer": "24"}
+{"question": "What is 6 * 7?", "answer": "42"}
+{"question": "What is 8 squared?", "answer": "64"}
+{"question": "What is the value of sin(90 degrees)?", "answer": "1"}
+{"question": "What is the cube of 4?", "answer": "64"}
+{"question": "What is the perimeter of a rectangle with sides 5 and 7?", "answer": "24 units"}
+{"question": "What is the result of 15 mod 4?", "answer": "3"}
+{"question": "What is the area of a trapezoid with bases 4 and 6 and height 5?", "answer": "25 square units"}
+{"question": "What is the prime factorization of 60?", "answer": "2^2 * 3 * 5"}
+{"question": "What is the value of log base 2 of 8?", "answer": "3"}
+{"question": "What is the 4th number in the Fibonacci sequence?", "answer": "2"}
+{"question": "What is the sum of the angles in an octagon?", "answer": "1080 degrees"}
